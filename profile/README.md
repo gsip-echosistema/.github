@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gsip-echosistema/.github/blob/main/profile/assets/echosistema.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gsip-echosistema/.github/blob/main/profile/assets/echosistema.png">
-  <img alt="echosistema" src="https://raw.githubusercontent.com/gsip-echosistema/.github/blob/main/profile/assets/echosistema.png" width="280">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gsip-echosistema/.github/blob/main/profile/assets/echosistema.png?raw=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/gsip-echosistema/.github/blob/main/profile/assets/echosistema.png?raw=true">
+  <img alt="echosistema" src="https://github.com/gsip-echosistema/.github/blob/main/profile/assets/echosistema.png?raw=true" width="280">
 </picture>
 
 <br><br>
